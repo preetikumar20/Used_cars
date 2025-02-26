@@ -30,5 +30,6 @@ This files provides an analysis of used car pricing using Linear and Lasso Regre
 3. **Adapt to emerging trends** like EV adoption and seasonal pricing variations.
 
 ## **Python Code file link**
-The Python code for this analysis is available at: 
+The Python code for this analysis is available at: https://github.com/preetikumar20/Used_cars/blob/dabd2744c30a11d50311877015bef8471611b718/prompt_II.ipynb
+
 
